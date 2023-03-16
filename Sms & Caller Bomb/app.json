@@ -1,0 +1,22 @@
+{
+    "name": "Bombex",
+    "description": "SMS Bomber",
+    "repository": "t.me/BadRhyme",
+    "env": {
+        "TOKEN": {
+            "description": "Telegram Botunun Token'ı: ",
+            "required": true
+        }
+    },
+    "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "eco"
+    }
+  },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
