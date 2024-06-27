@@ -3,7 +3,7 @@
       !=====================!                                                       
             !BadRhyme               
          Sms and Caller bot                      
-        Telegram;t.me/BadRhyme
+     Telegram;t.me/badrhymetht
       !=====================!
     !=========================!
     !!!!!!!!!!!!!!!!!!!!!!!!!!!
